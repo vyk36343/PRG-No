@@ -36,7 +36,7 @@ dejte vědět tím, že napíšete
  3. [Generátory](generatory.ipynb)
  3. [Funkcionální přístup](funkcional.ipynb)
 
-
+    GitHub
 
 
 Kde se učit a hledat informace
